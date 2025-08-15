@@ -1,7 +1,6 @@
-import java.util.Scanner;
-import java.util.Random;
+package Lista1;
 
-public class Main {
+public class Pergunta1 {
     public static void main(String[] args) {
        System.out.println("Hello World");
     }

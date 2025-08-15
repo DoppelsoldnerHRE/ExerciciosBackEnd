@@ -1,5 +1,4 @@
-import java.util.Scanner;
-import java.util.Random;
+package Lista1;
 
 public class Pergunta2 {
     public static void main(String[] args) {
